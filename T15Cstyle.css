@@ -14,7 +14,7 @@
         <div class="header">
             <nav>
                 <a href="index.html"><img src="images/logo_official.png"></a>
-                <div class="nav-links" id="navLinks">
+                <div class="nav-links" id ="navLinks">
                     <i class="fa fa-times" aria-hidden="true" onclick="hidemenu()"></i>
                     <ul>
                         <li><a href="index.html">Home</a></li>
